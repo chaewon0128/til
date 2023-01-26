@@ -66,4 +66,4 @@ _italic_ `*italic*`
 # check list
 
 - [x] push
-- [] pull request
+-[] pull request
