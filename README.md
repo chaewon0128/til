@@ -13,7 +13,7 @@
 ### Javascript
 
 ### React
-* [ConditionalRendering] ()
-* [ClassComponent] ()
+* [ConditionalRendering](https://github.com/chaewon0128/til/blob/main/conditiondalRendering.js)
+* [ClassComponent](https://github.com/chaewon0128/til/blob/main/classComponent.js)
 * [리스트렌더링] ()
 
