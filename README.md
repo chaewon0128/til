@@ -11,7 +11,7 @@
 
 
 ### Javascript
-
+* [arrayMethod] ()
 ### React
 * [ConditionalRendering](https://github.com/chaewon0128/til/blob/main/conditiondalRendering.js)
 * [ClassComponent](https://github.com/chaewon0128/til/blob/main/classComponent.js)
@@ -19,4 +19,8 @@
 * [ConditionalRendering] ()
 * [ClassComponent] ()
 * [리스트렌더링] ()
+* [이벤트핸들링] ()
+* [캡쳐링버블링] ()
+* [ReactForm] ()
+* [control/uncontrol] ()
 
