@@ -6,12 +6,13 @@ import { LoginInput } from './useRef';
 import Bank from './useReducer';
 import LandingPage from './LandingPage';
 import AttendanceBook from './AttendanceBook';
+import SignUp from './SignUp';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-<AttendanceBook/>
+<SignUp />
   </React.StrictMode>
 );
 
